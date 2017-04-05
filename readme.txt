@@ -3,4 +3,4 @@ Git is a free software.
 Git has mutable index called stage
 Git track change
 Creat a new brance is quick
-three and four
+one and two
